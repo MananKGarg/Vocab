@@ -22,4 +22,15 @@
 19. **Deplore** - feel or express strong disapproval of (something). *we deplore all violence*
 20. **Congenial** - (of a person) pleasing or liked on account of having qualities or interests that are similar to one's own. *his need for some congenial company*
 21. **Pogrom** - an organized massacre of a particular ethnic group, in particular that of Jews in Russia or eastern Europe. *the Nazis began a pogrom against Jewish people in Germany*
-22.
+22. **Benign** - Gentle and Kind
+23. **Liberalisation** - Liberalization refers to laws or rules being liberalized, or relaxed, by a government.
+24. **lessees** - a person who holds the lease of a property; a tenant. *"the brewery said that the lessees of its pubs have no obligation to buy its beer"*
+25 **Lease** - a contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment. *"a six-month lease on a shop"*
+26. **Crony Capitalism** - an economic system characterized by close, mutually advantageous relationships between business leaders and government officials. *"allegations of crony capitalism have plagued the government"*
+27. **Implausible** - (of an argument or statement) not seeming reasonable or probable; failing to convince. *"this is a blatantly implausible claim"*
+28. **Rampant** - (especially of something unwelcome) flourishing or spreading unchecked. *"political violence was rampant"*
+29. **Nexus** - 1. a connection or series of connections linking two or more things. *"the nexus between industry and political power"*<br> 2. a central or focal point. *"the nexus of any government in this country is No. 10"*<br>
+30.**Patronage** - the support given by a patron. *"the arts could no longer depend on private patronage"*
+31. **Impoverished** - (of a person or area) made poor. *"impoverished villages"*
+32. **Hounded** - harass, persecute, or pursue relentlessly. *"she was hounded by the Italian press"*
+
