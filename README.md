@@ -48,7 +48,8 @@
 45. **Unrepented** - Not regretted.
 46. **Exalted** - (of a person or their rank or status) at a high or powerful level. *"it had taken her years of infighting to reach her present exalted rank"*
 47. **Ratified** - sign or give formal consent to (a treaty, contract, or agreement), making it officially valid. *"both countries were due to ratify the treaty by the end of the year"*
-
-
+48. **Comity** - an association of nations for their mutual benefit.
+49. **Hyperbole** - exaggerated statements or claims not meant to be taken literally. *"he vowed revenge with oaths and hyperboles"*
+50. **
 
 
