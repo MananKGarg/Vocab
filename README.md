@@ -34,3 +34,18 @@
 31. **Impoverished** - (of a person or area) made poor. *"impoverished villages"*
 32. **Hounded** - harass, persecute, or pursue relentlessly. *"she was hounded by the Italian press"*
 33. **Stymie** - prevent or hinder the progress of. *"the changes must not be allowed to stymie new medical treatments"*
+34. **Pique** - a feeling of irritation or resentment resulting from a slight, especially to one's pride. *"he left in a fit of pique"*
+35. **Feudalism** - a social system existing in medieval Europe in which people worked and fought for nobles who gave them protection and land in return.
+36. **Coercion** - the action or practice of persuading someone to do something by using force or threats.
+37. **vis-a-vis** - in relation to; with regard to. *"many agencies now have a unit to deal with women's needs vis-à-vis employment"*
+38. **Immolate** - kill or offer as a sacrifice, especially by burning. *"Chinese kings would immolate vast numbers of animals"*
+39. **Abetting** - encourage or assist (someone) to do something wrong, in particular to commit a crime. *"he was not guilty of murder but was guilty of aiding and abetting others"*
+40. **Fag-End** - a poor or worn-out end *a patchwork quilt sewn together from the fag ends of many bolts of cloth*
+41. **Deference** - polite submission and respect. *"he addressed her with the deference due to age"*
+42. **Diaspora** - the dispersion or spread of any people from their original homeland. *"the diaspora of boat people from Asia"*
+43. **Thwarted** - oppose (a plan, attempt, or ambition) successfully. *"the government had been able to thwart all attempts by opposition leaders to form new parties"*
+
+
+
+
+
