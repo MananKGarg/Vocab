@@ -44,7 +44,10 @@
 41. **Deference** - polite submission and respect. *"he addressed her with the deference due to age"*
 42. **Diaspora** - the dispersion or spread of any people from their original homeland. *"the diaspora of boat people from Asia"*
 43. **Thwarted** - oppose (a plan, attempt, or ambition) successfully. *"the government had been able to thwart all attempts by opposition leaders to form new parties"*
-
+44. **Rapprochment** - (especially in international affairs) an establishment or resumption of harmonious relations. *"there were signs of a growing rapprochement between the two countries"*
+45. **Unrepented** - Not regretted.
+46. **Exalted** - (of a person or their rank or status) at a high or powerful level. *"it had taken her years of infighting to reach her present exalted rank"*
+47. **Ratified** - sign or give formal consent to (a treaty, contract, or agreement), making it officially valid. *"both countries were due to ratify the treaty by the end of the year"*
 
 
 
