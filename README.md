@@ -33,4 +33,4 @@
 30.**Patronage** - the support given by a patron. *"the arts could no longer depend on private patronage"*
 31. **Impoverished** - (of a person or area) made poor. *"impoverished villages"*
 32. **Hounded** - harass, persecute, or pursue relentlessly. *"she was hounded by the Italian press"*
-
+33. **Stymie** - prevent or hinder the progress of. *"the changes must not be allowed to stymie new medical treatments"*
