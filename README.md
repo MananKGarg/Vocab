@@ -50,6 +50,35 @@
 47. **Ratified** - sign or give formal consent to (a treaty, contract, or agreement), making it officially valid. *"both countries were due to ratify the treaty by the end of the year"*
 48. **Comity** - an association of nations for their mutual benefit.
 49. **Hyperbole** - exaggerated statements or claims not meant to be taken literally. *"he vowed revenge with oaths and hyperboles"*
-50. **
+50. **maid of honor** - an unmarried noblewoman attending a queen or princess
+51. **Grippe** - old-fashioned term for influenza.
+52. **Complacent** - showing smug or uncritical satisfaction with oneself or one's achievements. *"you can't afford to be complacent about security"*
+53.**Wearisome** - causing one to feel tired or bored.
+54. **Languidly** - lacking force or quickness of movement : slow
+55. **Vocation** - a strong feeling of suitability for a particular career or occupation. *"not all of us have a vocation to be nurses or doctors"* <br>
+a person's employment or main occupation, especially regarded as worthy and requiring dedication. *"her vocation as a poet"*
+56. **Forsake** - abandon or leave. *"he would never forsake Tara"*
+57. **Abnegation** - the action of renouncing or rejecting something. *"abnegation of political power"*
+58. **Impetuosity** - acting or done quickly and without thought or care. *"she might live to rue this impetuous decision"*
+59. **emigres** - a person who has left their own country in order to settle in another, typically for political reasons. *"Soviet émigrés and defectors"*
+60. **deigned** - do something that one considers to be beneath one's dignity. *"she did not deign to answer the maid's question"*
+61. **Enraptured** - give intense pleasure or joy to. *"Ruth was enraptured by the sleeping child"*
+62. **Rejoinder** - a reply, especially a sharp or witty one. *"she would have made some cutting rejoinder but none came to mind"*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
