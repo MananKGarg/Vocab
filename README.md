@@ -70,14 +70,15 @@ a person's employment or main occupation, especially regarded as worthy and requ
 66. **Vexatious** - causing or tending to cause annoyance, frustration, or worry. *"the vexatious questions posed by software copyrights"*
 67. **Gaily** - in a cheerful or light-hearted way. *"he waved gaily to the crowd"*
 68. **Samovar** - a highly decorated tea urn used in Russia.
-69. **
-
-
-
-
-
-
-
+69. **Maimed** - wound or injure (a person or animal) so that part of the body is permanently damaged. *"100,000 soldiers were killed or maimed"*
+70. **Marauder** - a person who marauds; a raider. *"a band of English marauders were surprised and overcome"*
+71. **Ravage** - cause severe and extensive damage to. *"the hurricane ravaged southern Florida"*
+72. **Clamour** - a loud and confused noise, especially that of people shouting. *"the questions rose to a clamour"*
+73. **Abjure** - solemnly renounce (a belief, cause, or claim). *"MPs were urged to abjure their Jacobite allegiance"*
+74. **Missionary** - a person sent on a religious mission, especially one sent to promote Christianity in a foreign country.
+75. **Makeshift** - acting as an interim and temporary measure. *"arranging a row of chairs to form a makeshift bed"*
+76. **Ransack** - go through (a place) stealing things and causing damage. *"burglars ransacked her home"*
+77. **Cower** - crouch down in fear. *"children cowered in terror as the shoot-out erupted"*
 
 
 
