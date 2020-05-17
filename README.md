@@ -64,11 +64,13 @@ a person's employment or main occupation, especially regarded as worthy and requ
 60. **deigned** - do something that one considers to be beneath one's dignity. *"she did not deign to answer the maid's question"*
 61. **Enraptured** - give intense pleasure or joy to. *"Ruth was enraptured by the sleeping child"*
 62. **Rejoinder** - a reply, especially a sharp or witty one. *"she would have made some cutting rejoinder but none came to mind"*
-
-
-
-
-
+63. **Reproach** - express to (someone) one's disapproval of or disappointment in their actions. *"her friends reproached her for not thinking enough about her family"*
+64. **Aide-de-camp** - a military officer acting as a confidential assistant to a senior officer.
+65. **Apprentice** - a person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages. *"an apprentice electrician"*
+66. **Vexatious** - causing or tending to cause annoyance, frustration, or worry. *"the vexatious questions posed by software copyrights"*
+67. **Gaily** - in a cheerful or light-hearted way. *"he waved gaily to the crowd"*
+68. **Samovar** - a highly decorated tea urn used in Russia.
+69. **
 
 
 
