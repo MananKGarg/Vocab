@@ -79,8 +79,26 @@ a person's employment or main occupation, especially regarded as worthy and requ
 75. **Makeshift** - acting as an interim and temporary measure. *"arranging a row of chairs to form a makeshift bed"*
 76. **Ransack** - go through (a place) stealing things and causing damage. *"burglars ransacked her home"*
 77. **Cower** - crouch down in fear. *"children cowered in terror as the shoot-out erupted"*
-
-
+78. **Implacable** - unable to be appeased or placated. *"he was an implacable enemy of Ted's"*
+79. **Presage** - e a sign or warning of (an imminent event, typically an unwelcome one). *"the heavy clouds above the moorland presaged snow"*
+80. **Nettle** - irritate or annoy (someone). *"‘I was only asking,’ Jess said, nettled"*
+81. **Forge** - make or shape (a metal object) by heating it in a fire or furnace and hammering it. *"he forged a great suit of black armour"*
+82. **Unwieldy** - (of a system) too large or disorganized to function efficiently. *"the benefits system is unwieldy and unnecessarily complex"*
+83. **Renege** - go back on a promise, undertaking, or contract. *"the government had reneged on its election promises"*
+84. **Ruffle** - an ornamental gathered or goffered frill of lace or other cloth on a garment, especially around the wrist or neck.
+85. **Grandee** - a person of high rank or eminence. *"several City grandees and eminent lawyers"*
+86. **Unintelligible** - impossible to understand. *"dolphin sounds are unintelligible to humans"*
+87. **Chimerical** - hoped for but illusory or impossible to achieve. *"the notion of tolerance is a chimeric dream"*
+88. **Careworn** - tired and unhappy because of prolonged worry. *"a careworn expression"*
+89. **Magnanimity** - the fact or condition of being magnanimous; generosity. *"both sides will have to show magnanimity"*
+90. **Raconteur** - a person who tells anecdotes in a skilful and amusing way. *"a colourful raconteur"*
+91. **Coquetry** - flirtatious behaviour. *"‘I like the way you laugh,’ he said without coquetry"*
+92. **Imbecile** - a stupid person.
+93. **Sullen** - bad-tempered and sulky. *"a sullen pout"*
+94. **Puckered** - (especially with reference to a person's face) tightly gather or contract into wrinkles or small folds. *"the child's face puckered, ready to cry"*
+95. **Grimace** - an ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement. *"she gave a grimace of pain"*
+96. **Lorgnette** - a pair of glasses or opera glasses held in front of a person's eyes by a long handle at one side.
+97. **
 
 
 
