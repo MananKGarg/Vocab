@@ -98,7 +98,27 @@ a person's employment or main occupation, especially regarded as worthy and requ
 94. **Puckered** - (especially with reference to a person's face) tightly gather or contract into wrinkles or small folds. *"the child's face puckered, ready to cry"*
 95. **Grimace** - an ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement. *"she gave a grimace of pain"*
 96. **Lorgnette** - a pair of glasses or opera glasses held in front of a person's eyes by a long handle at one side.
-97. **
+97. **Bestow** - confer or present (an honour, right, or gift). *"the office was bestowed on him by the monarch of this realm"*
+98. **Bastion** - an institution, place, or person strongly maintaining particular principles, attitudes, or activities. *"cricket's last bastion of discrimination"*
+99. **Ostensibly** - as appears or is stated to be true, though not necessarily so; apparently. *"the party secretary resigned, ostensibly from ill health"*
+100. **Carnality** - Relating to sexual pleasures or humanly pleasures.
+101. **Animus** - hostility or ill feeling. *"the author's animus towards her"*
+102. **Perversity** - a deliberate desire to behave in an unreasonable or unacceptable way; contrariness. *"they responded with typical perversity"*
+103. **Deviance** - the fact or state of diverging from usual or accepted standards, especially in social or sexual behaviour. *"a study of crime and deviance"*
+104. **Arduous** - involving or requiring strenuous effort; difficult and tiring. *"an arduous journey"*
+105. **Sullen** - bad-tempered and sulky. *"a sullen pout"*
+106. **Pastor** - a minister in charge of a Christian church or congregation, especially in some non-episcopal churches.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
