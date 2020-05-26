@@ -3,7 +3,7 @@
 1. **Self-Effacing** - having or showing tendency to make oneself modestly or shyly inconspicuous
 2. **Reformist** - Someone who supports gradual reform rather than abolition or revolution
 3. **Populist** - a person, especially a politician, who strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups
-4. **Exchequer** - National or Royal Treasury. Govt funds.
+4. **Exchequer** - National or Royal Treasury. Govt funds
 5. **Cede** - give up (power or territory). *in 1874, the islands were ceded to Britain*
 6. **Palpable** - (of a feeling or atmosphere) so intense as to seem almost tangible. *a palpable sense of loss*
 7. **Precarious** - not securely held or in position; dangerously likely to fall or collapse. *a precarious ladder*
