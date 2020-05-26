@@ -108,6 +108,39 @@ a person's employment or main occupation, especially regarded as worthy and requ
 104. **Arduous** - involving or requiring strenuous effort; difficult and tiring. *"an arduous journey"*
 105. **Sullen** - bad-tempered and sulky. *"a sullen pout"*
 106. **Pastor** - a minister in charge of a Christian church or congregation, especially in some non-episcopal churches.
+107. **Putative** - generally considered or reputed to be. *"the putative author of the book"*
+108. **Pilfered** - steal (things of little value). *"she produced the handful of coins she had managed to pilfer"*
+109. **Complicity** - the fact or condition of being involved with others in an activity that is unlawful or morally wrong. *"they were accused of complicity in the attempt to overthrow the government"*
+110. **Coerce** - persuade (an unwilling person) to do something by using force or threats. *"he was coerced into giving evidence"*
+120. **Ombudsman** - an official appointed to investigate individuals' complaints against a company or organization, especially a public authority.
+121. **Solidarity** - unity or agreement of feeling or action, especially among individuals with a common interest; mutual support within a group. *"factory workers voiced solidarity with the striking students"*
+122. **Buckle** - bend and give way under pressure or strain. *"the earth buckled under the titanic stress"*
+123. **Marquee** - a large tent used for social or commercial functions.
+124. **Emissary** - a person sent as a diplomatic representative on a special mission.
+125. **Punitive** - Inflicting or intended as punishment. *"he called for punitive measures against the Eastern bloc"*
+126. **Posse** - a group of people who have a common characteristic or occupation. *"tea was handed round by a posse of mothers"*
+127. **Externing** - banish (someone considered politically undesirable) from a region or district. *"he was externed for inciting communal tension in the city"*
+128. **Purview** - the scope of the influence or concerns of something. *"such a case might be within the purview of the legislation"*
+129. **Ramparts** - a defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet. *"a castle with ramparts and a moat"*
+130. **Incarceration** - the state of being confined in prison; imprisonment. *"the public would not be served by her incarceration"*
+131. **Rivalled** - be or seem to be equal or comparable to. *"he was a photographer whose fame rivalled that of his subjects"*
+132. **Exhortative** - Acting or intended to encourage, incite, or advise.
+133. **Stolid** - calm, dependable, and showing little emotion or animation. *"a stolid bourgeois gent"*
+134. **Forestall** - prevent or obstruct (an anticipated event or action) by taking advance action. *"they will present their resignations to forestall a vote of no confidence"*
+135. **Callous** -showing or having an insensitive and cruel disregard for others. *"his callous comments about the murder made me shiver"*
+136. **Fiduciary** - involving trust, especially with regard to the relationship between a trustee and a beneficiary. *"the company has a fiduciary duty to shareholders"*
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
