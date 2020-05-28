@@ -129,6 +129,18 @@ a person's employment or main occupation, especially regarded as worthy and requ
 134. **Forestall** - prevent or obstruct (an anticipated event or action) by taking advance action. *"they will present their resignations to forestall a vote of no confidence"*
 135. **Callous** -showing or having an insensitive and cruel disregard for others. *"his callous comments about the murder made me shiver"*
 136. **Fiduciary** - involving trust, especially with regard to the relationship between a trustee and a beneficiary. *"the company has a fiduciary duty to shareholders"*
+137. **Honour Killing** - the killing of a relative, especially a girl or woman, who is perceived to have brought dishonour on the family.
+138. **Liasion** - communication or cooperation which facilitates a close working relationship between people or organizations. *"the head porter works in close liaison with the reception office"*
+139. **Voyeurism** - the practice of gaining sexual pleasure from watching others when they are naked or engaged in sexual activity. *"Internet sites dedicated to the act of voyeurism"*<br>
+enjoyment from seeing the pain or distress of others. *"township visits are bordering on voyeurism"*
+140.**Frailty** - the condition of being weak and delicate. *"the increasing frailty of old age"*
+141. **Assiduous** - showing great care and perseverance. *"she was assiduous in pointing out every feature"*
+142. **Princeling** - [Derogatory] the ruler of a small principality or domain.*"an obscure family of German princelings"*
+143. **Appellation** - a name or title. *"the city fully justifies its appellation ‘the Pearl of the Orient’"*
+144. **Juxtaposed** - place or deal with close together for contrasting effect. *"black-and-white photos of slums were starkly juxtaposed with colour images"*
+145. **Adroit** - clever or skilful. *"he was adroit at tax avoidance"*
+146. **Eschewed** - deliberately avoid using; abstain from. *"he appealed to the crowd to eschew violence"*
+147. 
 
 
 
