@@ -140,8 +140,13 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 144. **Juxtaposed** - place or deal with close together for contrasting effect. *"black-and-white photos of slums were starkly juxtaposed with colour images"*
 145. **Adroit** - clever or skilful. *"he was adroit at tax avoidance"*
 146. **Eschewed** - deliberately avoid using; abstain from. *"he appealed to the crowd to eschew violence"*
-147. 
-
+147. **Agrestic** - relating to the country; rural or rustic.
+148. **Serfdom** - the state of being a serf or feudal labourer. *"the liberation of the peasants from serfdom"*
+149. **Edifice** - a complex system of beliefs. *"the concepts on which the edifice of capitalism was built"*
+150. **Nonplussed** - so surprised and confused that one is unsure how to react. *"Henry looked completely nonplussed"*
+151. **Clinomania** - Excessive desire to stay in bed. *I definitely have clinomania; I love sleeping, making mornings a struggle for me.*
+152. **Petrichor** - a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather. *"other than the petrichor emanating from the rapidly drying grass, there was not a trace of evidence that it had rained at all"*
+153. **floccinaucinihilipilification** **(Shashi Tharoor Special)** - the action or habit of estimating something as worthless. *I am very offended by my friend's floccinaucinihilipilification of my amazing new vocabulary.*
 
 
 
