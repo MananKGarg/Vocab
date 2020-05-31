@@ -147,10 +147,56 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 151. **Clinomania** - Excessive desire to stay in bed. *I definitely have clinomania; I love sleeping, making mornings a struggle for me.*
 152. **Petrichor** - a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather. *"other than the petrichor emanating from the rapidly drying grass, there was not a trace of evidence that it had rained at all"*
 153. **floccinaucinihilipilification** **(Shashi Tharoor Special)** - the action or habit of estimating something as worthless. *I am very offended by my friend's floccinaucinihilipilification of my amazing new vocabulary.*
-
-
-
-
+154. **Consecration** - the action of ordaining someone to a sacred office, typically that of bishop. *"he received consecration as bishop at Notre Dame"*
+155. **Mettle** - a person's ability to cope well with difficulties; spirit and resilience. *"the team showed their true mettle in the second half"*
+156. **Egotism** - the fact of being excessively conceited or absorbed in oneself. "in his arrogance and egotism, he underestimated Gill"*
+157. **Rancour** - bitterness or resentfulness, especially when long standing. *"he spoke without rancour"*
+158. **Pious** - devoutly religious. *"a deeply pious woman"*
+159. **Virtuous** - having or showing high moral standards. *"she considered herself very virtuous because she neither drank nor smoked"*
+160. **Ostensible** - stated or appearing to be true, but not necessarily so. *"the real dispute which lay behind the ostensible complaint"*
+161. **Renounce** - formally declare one's abandonment of (a claim, right, or possession). *"Isabella offered to renounce her son's claim to the French Crown"*
+162. **Disparage** - regard or represent as being of little worth. *"he never missed an opportunity to disparage his competitors"*
+163. **Covet** - yearn to possess (something, especially something belonging to another). *"I covet one of their smart bags*
+164. **Ignoble** - not honourable in character or purpose. *"ignoble feelings of intense jealousy"*
+165. **Hermitage** - the dwelling of a hermit, especially when small and remote.
+166. **Espoused** - adopt or support (a cause, belief, or way of life). *"she espoused the causes of justice and freedom for all"*
+167. **Goad** - provoke or annoy (someone) so as to stimulate an action or reaction. *"he was trying to goad her into a fight"*
+168. **Anarchic** - with no controlling rules or principles to give order. *"an anarchic and bitter civil war"*
+169. **Portents** - a sign or warning that a momentous or calamitous event is likely to happen. Ill Omen. *"many birds are regarded as being portents of death"*
+170. **Alluded** - suggest or call attention to indirectly; hint at. *"she had a way of alluding to Jean but never saying her name"*
+171. **Emulate** - match or surpass (a person or achievement), typically by imitation. *"most rulers wished to emulate Alexander the Great"*
+172. **Spurred** - to encourage someone to do something. *The thought of failing my exams spurred me into action.*
+173. **Embitter** - make (someone) feel bitter or resentful. *"he died an embittered man"*
+174. **Visceral** - relating to deep inward feelings rather than to the intellect. *"the voters' visceral fear of change"*
+175. **Intransigence** - refusal to change one's views or to agree about something. *"in the face of government intransigence, he resigned in disgust"*
+176. **Quibble** - a slight objection or criticism about a trivial matter. *"the only quibble about this book is the price"*
+177. **Vindicate** - clear (someone) of blame or suspicion. *"hospital staff were vindicated by the inquest verdict"*
+178. **Incipient** - beginning to happen or develop. *"he could feel incipient anger building up"*
+179. **Debilitating** - tending to weaken something. *"the debilitating effects of underinvestment"*
+180. **Cadres** - a small group of people specially trained for a particular purpose or profession. *"a cadre of professional managers"*
+181. **Amok** - behave uncontrollably and disruptively. *"stone-throwing anarchists were running amok"*
+182. **Bourgeoisie** - the middle class, typically with reference to its perceived materialistic values or conventional attitudes. *"the rise of the bourgeoisie at the end of the eighteenth century"*
+183. **Pervaded** - (especially of a smell) spread through and be perceived in every part of. *"a smell of stale cabbage pervaded the air"*
+184. **Egalitarian** - believing in or based on the principle that all people are equal and deserve equal rights and opportunities. *"a fairer, more egalitarian society"*
+185. **Vagaries** - an unexpected and inexplicable change in a situation or in someone's behaviour. *"the vagaries of the weather"*
+186. **Wager** - more formal term for bet.
+187. **Fornicate** - have sexual intercourse with someone one is not married to.
+188. **Exegete** - a person who interprets text, especially scripture.
+189. **Injunction** - an authoritative warning or order.
+190. **Deranged** - mad; insane. *"a deranged gunman*
+191. **Panache** - flamboyant confidence of style or manner. *"he entertained London society with great panache*
+192. **Redaction** - the process of editing text for publication. *"what was left after the redaction would be virtually useless"*
+193. **Unravelled** - investigate and solve or explain (something complicated or puzzling). *"they were attempting to unravel the cause of death"*
+194. **Bestial** - savagely cruel and depraved. *"bestial and barbaric acts"*
+195. **Coitus** - Sexual Intercourse
+196. **Palmy** - Marked by prosperity *In Beaufort Road was a house occupied in it's palmier days, by Mr. Shorthouse, a manufacturer of acids*
+197. **Inure** - accustom (someone) to something, especially something unpleasant. *"these children have been inured to violence"*
+198. **Serendipity** - the occurrence and development of events by chance in a happy or beneficial way. *"a fortunate stroke of serendipity"*
+199. **Epiphany** - a moment of sudden and great revelation or realization. *In the first grade, I experienced an epiphany that girls were always treated differently than boys.*
+200. **Lithe** - (especially of a person's body) thin, supple, and graceful. *"she lay gazing up at his tall, lithe figure"*
+201. **Sureptitious** - kept secret, especially because it would not be approved of. *"low wages were supplemented by surreptitious payments from tradesmen"*
+202. **Dulcet** - (especially of sound) sweet and soothing (often used ironically). *"record the dulcet tones of your family and friends"*
+203. **Ebullience** - the quality of being cheerful and full of energy; exuberance. *"the ebullience of happy children"*
 
 
 
