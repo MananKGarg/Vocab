@@ -197,6 +197,11 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 201. **Sureptitious** - kept secret, especially because it would not be approved of. *"low wages were supplemented by surreptitious payments from tradesmen"*
 202. **Dulcet** - (especially of sound) sweet and soothing (often used ironically). *"record the dulcet tones of your family and friends"*
 203. **Ebullience** - the quality of being cheerful and full of energy; exuberance. *"the ebullience of happy children"*
+204. **Bouts** - a short period of intense activity of a specified kind. *"occasional bouts of strenuous exercise"*
+205. **Foment** - instigate or stir up (an undesirable or violent sentiment or course of action). *"they accused him of fomenting political unrest"*
+206. **Extern** - banish (someone considered politically undesirable) from a region or district. *"he was externed for inciting communal tension in the city"*
+207. **Penchant** - a strong or habitual liking for something or tendency to do something. *"he has a penchant for adopting stray dogs"*
+208. **
 
 
 
