@@ -201,7 +201,20 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 205. **Foment** - instigate or stir up (an undesirable or violent sentiment or course of action). *"they accused him of fomenting political unrest"*
 206. **Extern** - banish (someone considered politically undesirable) from a region or district. *"he was externed for inciting communal tension in the city"*
 207. **Penchant** - a strong or habitual liking for something or tendency to do something. *"he has a penchant for adopting stray dogs"*
-208. **
+208. **Stalled** - stop or cause to stop making progress. *"his career had stalled, hers taken off"*
+209. **Ratify** - sign or give formal consent to (a treaty, contract, or agreement), making it officially valid. *"both countries were due to ratify the treaty by the end of the year"*
+210. **Imperill** - put at risk of being harmed, injured, or destroyed. *"they advised against tax increases for fear of imperilling the recovery"*
+211. **Barbs** -  very strong insult or criticism. Telling someone to drop dead is an example of a barb.
+212. **Innuendos** - an allusive or oblique remark or hint, typically a suggestive or disparaging one. *"she's always making sly innuendoes"*
+213. **Hegemony** - leadership or dominance, especially by one state or social group over others. *"Germany was united under Prussian hegemony after 1871"*
+214. **Preponderant** - predominant in influence, number, or importance. *"the preponderant influence of the US within the alliance"*
+215. **Incumbency** - the holding of an office or the period during which one is held. *"during his incumbency he established an epidemic warning system"*
+216. **Stoking** - encourage or incite (a strong emotion or tendency). *"his composure had the effect of stoking her anger"*
+217. **Presage** - be a sign or warning of (an imminent event, typically an unwelcome one). *"the heavy clouds above the moorland presaged snow"*
+218. **Abeyance** - a state of temporary disuse or suspension. *"matters were held in abeyance pending further enquiries"*
+219. **Carcass** - the dead body of an animal. *"she saw the mud-covered carcass of a sheep"*
+220. **Spurious** - not being what it purports to be; false or fake. *"separating authentic and spurious claims"*
+221. **
 
 
 
