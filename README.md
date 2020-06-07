@@ -214,7 +214,12 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 218. **Abeyance** - a state of temporary disuse or suspension. *"matters were held in abeyance pending further enquiries"*
 219. **Carcass** - the dead body of an animal. *"she saw the mud-covered carcass of a sheep"*
 220. **Spurious** - not being what it purports to be; false or fake. *"separating authentic and spurious claims"*
-221. **
+221. **Covetous** - having or showing a great desire to possess something belonging to someone else. *"she fingered the linen with covetous hands"*
+222. **Placate** - make (someone) less angry or hostile. *"they attempted to placate the students with promises"*
+223. **Countervail** - offset the effect of (something) by countering it with something of equal force. *"the dominance of the party was mediated by a number of countervailing factors"*
+224. **Insipid** - lacking flavour; weak or tasteless. *"mugs of insipid coffee"*
+225. **Emulation** - effort to match or surpass a person or achievement, typically by imitation. *"their success is inspiring emulation from others"*
+
 
 
 
