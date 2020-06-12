@@ -219,6 +219,33 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 223. **Countervail** - offset the effect of (something) by countering it with something of equal force. *"the dominance of the party was mediated by a number of countervailing factors"*
 224. **Insipid** - lacking flavour; weak or tasteless. *"mugs of insipid coffee"*
 225. **Emulation** - effort to match or surpass a person or achievement, typically by imitation. *"their success is inspiring emulation from others"*
+226. **Buxom** - (of a woman) plump, with a full figure and large breasts. *"a buxom blonde"*
+227. **lament** - a passionate expression of grief or sorrow. *"his mother's night-long laments for his father"*
+228. **Stifle** - make (someone) unable to breathe properly; suffocate. *"those in the streets were stifled by the fumes"*
+229. **Strayed** - move away aimlessly from a group or from the right course or place. *"dog owners are urged not to allow their dogs to stray"*
+230. **Forebearance** - patient self-control; restraint and tolerance. *"his unfailing courtesy and forbearance under great provocation"*
+231. **Pacifism** - the belief that war and violence are unjustifiable and that all disputes should be settled by peaceful means. *"there remains a powerful undercurrent of pacifism"*
+232. **Laconic** - (of a person, speech, or style of writing) using very few words. *"his laconic reply suggested a lack of interest in the topic"*
+233. **Pragmatic** - dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations. *"a pragmatic approach to politics"*
+234. **Accost** - approach and address (someone) boldly or aggressively. *"reporters accosted him in the street"*
+235. **Expiate** - make amends or reparation for (guilt or wrongdoing). *"their sins must be expiated by sacrifice"*
+236. **Injunctions** - an authoritative warning or order.
+237. **Utilitarianism** - the doctrine that an action is right in so far as it promotes happiness, and that the greatest happiness of the greatest number should be the guiding principle of conduct.
+238. **Exhort** - strongly encourage or urge (someone) to do something. *"I exhorted her to be a good child"*
+239. **Destitute** - extremely poor and lacking the means to provide for oneself. *"the charity cares for destitute children"*
+240. **Concedes** - admit or agree that something is true after first denying or resisting it. *"I had to concede that I'd overreacted"*
+241. **Trump** - surpass (something) by saying or doing something better. *"if the fetus is human life, that trumps any argument about the freedom of the mother"*
+242. **Predisposition** - a liability or tendency to suffer from a particular condition, hold a particular attitude, or act in a particular way. *"a child may inherit a predisposition to schizophrenia"*
+243. **Eunuch** - a man who has been castrated, especially (in the past) one employed to guard the women's living areas at an oriental court.
+244. **Masquerade** - a false show or pretence. *"I doubt he could have kept up the masquerade for long"*
+245. **Guileless** - devoid of guile; innocent and without deception. *"his face, once so open and guileless"*
+246. **Emissary** - a person sent as a diplomatic representative on a special mission.
+247. **Preposterous** - contrary to reason or common sense; utterly absurd or ridiculous. *"a preposterous suggestion"*
+248. **Chide** - scold or rebuke. *"she chided him for not replying to her letters"*
+249. **Thrush** - a small or medium-sized songbird, typically having a brown back, spotted breast, and loud song.
+250. **Connotation** - the abstract meaning or intension of a term, which forms a principle determining which objects or concepts it applies to. an idea or feeling which a word invokes for a person in addition to its literal or primary meaning. *"the word ‘discipline’ has unhappy connotations of punishment and repression"*
+251. **
+
 
 
 
