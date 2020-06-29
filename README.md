@@ -244,8 +244,12 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 248. **Chide** - scold or rebuke. *"she chided him for not replying to her letters"*
 249. **Thrush** - a small or medium-sized songbird, typically having a brown back, spotted breast, and loud song.
 250. **Connotation** - the abstract meaning or intension of a term, which forms a principle determining which objects or concepts it applies to. an idea or feeling which a word invokes for a person in addition to its literal or primary meaning. *"the word ‘discipline’ has unhappy connotations of punishment and repression"*
-251. **
-
+251. **Utilitarianism** - the doctrine that an action is right in so far as it promotes happiness, and that the greatest happiness of the greatest number should be the guiding principle of conduct.
+252. **Pluralism** - pluralism is the position that there is not one consistent means of approaching truths about the world, but rather many.
+253. **Frenetic** - fast and energetic in a rather wild and uncontrolled way. *"a frenetic pace of activity"*
+254. **Predispose** - make someone liable or inclined to a specified attitude, action, or condition. *"lack of exercise may predispose an individual to high blood pressure"*
+255. **Errant** - erring or straying from the accepted course or standards. *"an errant husband coming back from a night on the tiles"*
+256. **
 
 
 
