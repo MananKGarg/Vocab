@@ -249,7 +249,20 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 253. **Frenetic** - fast and energetic in a rather wild and uncontrolled way. *"a frenetic pace of activity"*
 254. **Predispose** - make someone liable or inclined to a specified attitude, action, or condition. *"lack of exercise may predispose an individual to high blood pressure"*
 255. **Errant** - erring or straying from the accepted course or standards. *"an errant husband coming back from a night on the tiles"*
-256. **
+256. **Appalling** - causing shock or dismay; horrific. *"the cat suffered appalling injuries during the attack"*
+257. **Berserk** - out of control with anger or excitement; wild or frenzied. *"a man went berserk with an arsenal of guns"*
+258. **Conches** - Shankh
+259. **Tempest** - a violent windy storm. *"a raging tempest"*
+260. **Bard** - a poet, traditionally one reciting epics and associated with a particular oral tradition. *"our national bard, Robert Burns"*
+261. **Parched** - dried out with heat. *"the parched earth"* , thirsty
+262. **Dithered** - be indecisive. *"I can't bear people who dither"*
+263. **Adversary** - one's opponent in a contest, conflict, or dispute. *"Davis beat his old adversary in the quarter-finals"*
+264. **Pre-Emptive** - serving or intended to pre-empt or forestall something, especially to prevent attack by disabling the enemy. *"a pre-emptive strike"*
+265. **Prescient** - having or showing knowledge of events before they take place. *"a prescient warning"*
+266. **Fratricidal** - relating to or denoting conflict within a single family or organization. *"the fratricidal strife within the Party"*
+
+
+
 
 
 
