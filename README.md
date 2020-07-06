@@ -260,6 +260,37 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 264. **Pre-Emptive** - serving or intended to pre-empt or forestall something, especially to prevent attack by disabling the enemy. *"a pre-emptive strike"*
 265. **Prescient** - having or showing knowledge of events before they take place. *"a prescient warning"*
 266. **Fratricidal** - relating to or denoting conflict within a single family or organization. *"the fratricidal strife within the Party"*
+267. **Impervious** - unable to be affected by. *"he worked, apparently impervious to the heat"*
+268. **Pacifist** - a person who believes that war and violence are unjustifiable. *"she was a committed pacifist all her life"*
+269. **Renounce** - formally declare one's abandonment of (a claim, right, or possession). *"Isabella offered to renounce her son's claim to the French Crown"*
+270. **Arcane** - understood by few; mysterious or secret. *"arcane procedures for electing people"*
+271. **Tribulation** - a state of great trouble or suffering. *"his time of tribulation was just beginning"*
+272. **Acquiesce** - accept something reluctantly but without protest. *"Sara acquiesced in his decision"*
+273. **Allegory** - a story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one. *"Pilgrim's Progress is an allegory of the spiritual journey"*
+274. **Culpability** - responsibility for a fault or wrong; blame. *"a level of moral culpability"*
+275. **Vanquish** - defeat thoroughly. *"he successfully vanquished his rival"*
+276. **Wring** - squeeze and twist (something) to force liquid from it. *"she wrung the cloth out in the sink"*
+277. **Lament** - a passionate expression of grief or sorrow. *"his mother's night-long laments for his father"*
+278. **Immolate** - kill or offer as a sacrifice, especially by burning. *"Chinese kings would immolate vast numbers of animals"*
+279. **Censure** - express severe disapproval of (someone or something), especially in a formal statement. *"the company was heavily censured by inspectors from the Department of Trade"*
+278. **Desecrate** - treat (a sacred place or thing) with violent disrespect. *"more than 300 graves were desecrated"*
+279. **Subterfuge** - deceit used in order to achieve one's goal. *"he had to use subterfuge and bluff on many occasions"*
+280. **Pyrrhic** - (of a victory) won at too great a cost to have been worthwhile for the victor.
+281. **Gory** - involving or showing violence and bloodshed. *"a gory horror film"*
+282. **Hunky Dory** - fine; going well. *"everything is hunky-dory"*
+283. **Appeasement** - pacify or placate (someone) by acceding to their demands. *"amendments have been added to appease local pressure groups"*
+284. **Deride** - express contempt for; ridicule. *"the decision was derided by environmentalists"*
+285. **Inter arma silent leges** - In times of war, the law falls silent.
+286. **Vindicate** - clear (someone) of blame or suspicion. *"hospital staff were vindicated by the inquest verdict"*
+287. **Discourse** - written or spoken communication or debate. *"the language of political discourse"*
+288. **Espouse** - adopt or support (a cause, belief, or way of life). *"she espoused the causes of justice and freedom for all"*
+289. **Beseech** - ask (someone) urgently and fervently to do something; implore; entreat. *"they beseeched him to stay"*
+290. **Mitigate** - make (something bad) less severe, serious, or painful. *"drainage schemes have helped to mitigate this problem"*
+291. **Enunciate** - express (a proposition, theory, etc.) in clear or definite terms. *"a written document enunciating this policy"*
+292. **Usurped** - take (a position of power or importance) illegally or by force. *"Richard usurped the throne"*
+293. **Dubious** - not to be relied upon; suspect. *"extremely dubious assumptions"*
+294. **Embargo** - impose an official ban on (trade or a country or commodity).*"all of these countries have been embargoed by the US"*
+295. **Weal** - a red, swollen mark left on flesh by a blow or pressure. *"she slapped his cheek and a bright red weal sprang up on it"*
 
 
 
