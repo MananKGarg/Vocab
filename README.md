@@ -291,6 +291,7 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 293. **Dubious** - not to be relied upon; suspect. *"extremely dubious assumptions"*
 294. **Embargo** - impose an official ban on (trade or a country or commodity).*"all of these countries have been embargoed by the US"*
 295. **Weal** - a red, swollen mark left on flesh by a blow or pressure. *"she slapped his cheek and a bright red weal sprang up on it"*
+1. **Unbridled** - uncontrolled; unconstrained. *"a moment of unbridled ambition"*
 
 
 
