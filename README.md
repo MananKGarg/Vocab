@@ -292,6 +292,26 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 294. **Embargo** - impose an official ban on (trade or a country or commodity).*"all of these countries have been embargoed by the US"*
 295. **Weal** - a red, swollen mark left on flesh by a blow or pressure. *"she slapped his cheek and a bright red weal sprang up on it"*
 1. **Unbridled** - uncontrolled; unconstrained. *"a moment of unbridled ambition"*
+2. **Aphrodite** - an ancient Greek goddess associated with love, beauty, pleasure, passion and procreation
+3. **Relinquish** - voluntarily cease to keep or claim; give up. *"he relinquished his managerial role to become chief executive"*
+4. **Equanimity** - calmness and composure, especially in a difficult situation. *"she accepted both the good and the bad with equanimity"*
+5. **Bard** - Poet
+6. **Assuage** - make (an unpleasant feeling) less intense. *"the letter assuaged the fears of most members"*
+7. **Venerable** - accorded a great deal of respect, especially because of age, wisdom, or character. *"a venerable statesman"*
+8. **Regent** - a person appointed to administer a state because the monarch is a minor or is absent or incapacitated.
+9. **Implore** - beg someone earnestly or desperately to do something. *"he implored her to change her mind"*
+10. **Sire** - (of a person) be the father of. *"his father had just that measure of talent which so often sires a genius"*
+11. **Regency** - the office of or period of government by a regent. *"the boy being a minor, there would have to be a regency"*
+12. **De Facto** - In Fact
+13. **Effulgent** - (of a person or their expression) emanating joy or goodness. *"standing there was my father with the most effulgent smile on his face"*
+14. **Vanity** - excessive pride in or admiration of one's own appearance or achievements. *"it flattered his vanity to think I was in love with him"*
+15. **Ferment** - agitation and excitement among a group of people, typically concerning major change and leading to trouble or violence. *"a period of political and religious ferment"*
+16. **Brooded** - think deeply about something that makes one unhappy, angry, or worried. *"she had brooded over the subject a thousand times"*
+17. **Vindictive** - having or showing a strong or unreasoning desire for revenge. *"the criticism was both vindictive and personalized"*
+18. **Coterie** - a small group of people with shared interests or tastes, especially one that is exclusive of other people. *"a coterie of friends and advisers"*
+19. **Fealty** - a feudal tenant's or vassal's sworn loyalty to a lord. *"they owed fealty to the Earl rather than the King"*
+20. **Abjured** - solemnly renounce (a belief, cause, or claim). *"MPs were urged to abjure their Jacobite allegiance"*
+
 
 
 
