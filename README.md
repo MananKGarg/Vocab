@@ -311,6 +311,12 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 18. **Coterie** - a small group of people with shared interests or tastes, especially one that is exclusive of other people. *"a coterie of friends and advisers"*
 19. **Fealty** - a feudal tenant's or vassal's sworn loyalty to a lord. *"they owed fealty to the Earl rather than the King"*
 20. **Abjured** - solemnly renounce (a belief, cause, or claim). *"MPs were urged to abjure their Jacobite allegiance"*
+1. **Parlance** - a particular way of speaking or using words, especially a way common to those with a particular job or interest. *"dated terms that were once in common parlance"*
+2. **Extolled** - praise enthusiastically. *"he extolled the virtues of the Russian peoples"*
+3. **Disposition** - a person's inherent qualities of mind and character. *"your sunny disposition has a way of rubbing off on those around you"*
+4. **Slumber** - sleep. *"Sleeping Beauty slumbered in her forest castle"*
+5. **Yoking** - put a yoke on (a pair of animals); couple or attach with or to a yoke. *"a plough drawn by a camel and donkey yoked together"*
+
 
 
 
