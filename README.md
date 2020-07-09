@@ -324,7 +324,51 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 6. **Jeer** - make rude and mocking remarks, typically in a loud voice. *"some of the younger men jeered at him"*
 7. **Epithet** - an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or thing mentioned. *"old men are often unfairly awarded the epithet ‘dirty’"*
 8. **Sobriquet** - a person's nickname. *"she was a vast and haughty person who answered to the sobriquet ‘Duchesse’"*
-9. **Vie** - 
+9. **Vie** - compete eagerly with someone in order to do or achieve something. *"the athletes were vying for a place in the British team"*
+10. **Undercurrent** - an underlying feeling or influence, especially one that is contrary to the prevailing atmosphere and is not expressed openly. *"racial undercurrents"*
+11. **Chide** - scold or rebuke. *"she chided him for not replying to her letters"*
+12. **Exasperate** - irritate and frustrate (someone) intensely. *"this futile process exasperates prison officers"*
+13. **Complacency** - a feeling of smug or uncritical satisfaction with oneself or one's achievements. *"the figures are better, but there are no grounds for complacency"*
+14. **Approbation** - approval or praise. *"a term of approbation"*
+15. **Burp** - noisily release air from the stomach through the mouth; belch.
+16. **Sobering** - creating a more serious, sensible, or solemn mood. *"a sobering thought"*
+17. **Starched** - stiffen (fabric or clothing) with starch. *"starch your collar to keep it straight and stiff"*
+18. **Cummerbund** - a sash worn around the waist, especially as part of a man's formal evening suit.
+19. **Tassel** - a tuft of loosely hanging threads or cords knotted at one end and attached for decoration to soft furnishings, clothing, or other items. *"damask curtains were held by silk cords with gold tassels"*
+20. **Snob** - a person with an exaggerated respect for high social position or wealth who seeks to associate with social superiors and looks down on those regarded as socially inferior. *"her mother was a snob and wanted a lawyer as a son-in-law"*
+21. **Vocation** - a strong feeling of suitability for a particular career or occupation. *"not all of us have a vocation to be nurses or doctors"*
+22. **Atone** - make amends or reparation. *"a human sacrifice to atone for the sin"*
+23. **Patronage** - the power to control appointments to office or the right to privileges. *"recruits are selected on merit, not through political patronage"*
+24. **Restitution** - the restoration of something lost or stolen to its proper owner. *"the ANC had demanded the restitution of land seized from blacks"*
+25. **Retroactive** - (especially of legislation) taking effect from a date in the past. *"a big retroactive tax increase"*
+26. **Pageant** - a public entertainment consisting of a procession of people in elaborate, colourful costumes, or an outdoor performance of a historical scene. *"they brought the history books to life at the town's pageant"*
+27. **Conscientious** - wishing to do one's work or duty well and thoroughly. *"a conscientious man, he took his duties very seriously"*
+28. **Entreaty** - an earnest or humble request. *"the king turned a deaf ear to his entreaties"*
+29. **Fringe** -  the outer, marginal, or extreme part of an area, group, or sphere of activity. *"his uncles were on the fringes of crooked activity"*
+30. **Predicament** - a difficult, unpleasant, or embarrassing situation. *"the club's financial predicament"*
+31. **Appease** - pacify or placate (someone) by acceding to their demands. *"amendments have been added to appease local pressure groups"*
+32. **Munificent** - characterized by or displaying great generosity. *"a munificent bequest"*
+33. **Bequest** - a legacy. *"a bequest of over £300,000"*
+34. **Bantering** - characterized by good-humoured teasing. *"a bantering tone"*
+35. **Appalled** - greatly dismayed or horrified. *"Alison looked at me, appalled"*
+36. **Instigate** - bring about or initiate (an action or event). *"they instigated a reign of terror"*
+37. **Perfidy** - the state of being deceitful and untrustworthy. *"it was an example of his perfidy"*
+38. **Leitmotif** - any recurring theme in the arts or in everyday life. *This curse, the Leitmotif of the whole story, began to operate at once.*
+39. **Fray** - a battle or fight. *Karna entered the fray under Drona's leadership*
+40. **Disparage** - regard or represent as being of little worth. *"he never missed an opportunity to disparage his competitors"*
+41. **Farcical** - an event or situation that is absurd or disorganized. *"the debate turned into a drunken farce"*
+42. **Mire** - cause to become stuck in mud. *"sometimes a heavy truck gets mired down"*
+43. **Snuffed** - extinguish (a candle or flame). *"a breeze snuffed out the candle"*
+44. **Conniving** - given to or involved in conspiring to do something immoral, illegal, or harmful. *"a heartless and conniving person"*
+45. **Trope** - a figurative or metaphorical use of a word or expression. *"both clothes and illness became tropes for new attitudes toward the self"*
+46. **Tirade** - a long, angry speech of criticism or accusation. *"a tirade of abuse"*
+47. **Sham** - a thing that is not what it is purported to be. *"our current free health service is a sham"*
+48. **Harlot** - a prostitute.
+49. **Frailties** - the condition of being weak and delicate. *"the increasing frailty of old age"*
+50. **Subversive** - undermine the power and authority of (an established system or institution). *"an attempt to subvert democratic government"*
+51. **Veritably** - used to describe something as another, more exciting, interesting, or unusual thing, as a way of emphasizing its character: *My garden had become a veritable jungle by the time I came back from holiday.*
+52. **Guile** - sly or cunning intelligence. *"he used all his guile and guts to free himself from the muddle he was in"*
+
 
 
 
