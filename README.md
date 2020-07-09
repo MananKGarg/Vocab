@@ -316,6 +316,15 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 3. **Disposition** - a person's inherent qualities of mind and character. *"your sunny disposition has a way of rubbing off on those around you"*
 4. **Slumber** - sleep. *"Sleeping Beauty slumbered in her forest castle"*
 5. **Yoking** - put a yoke on (a pair of animals); couple or attach with or to a yoke. *"a plough drawn by a camel and donkey yoked together"*
+1. **Fiendish** - extremely cruel or unpleasant. *"fiendish methods of torture"*
+2. **Fidelity** - faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support. *"his fidelity to liberal ideals"*
+3. **Shudder** - (of a person) tremble convulsively, typically as a result of fear or revulsion. *"she still shuddered at the thought of him"*
+4. **Solicitous** - characterized by or showing interest or concern. *"she was always solicitous about the welfare of her students"*
+5. **Anoint** - ceremonially confer divine or holy office upon (a priest or monarch) by smearing or rubbing with oil. *"Samuel anointed him king"*
+6. **Jeer** - make rude and mocking remarks, typically in a loud voice. *"some of the younger men jeered at him"*
+7. **Epithet** - an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or thing mentioned. *"old men are often unfairly awarded the epithet ‘dirty’"*
+8. **Sobriquet** - a person's nickname. *"she was a vast and haughty person who answered to the sobriquet ‘Duchesse’"*
+9. **Vie** - 
 
 
 
