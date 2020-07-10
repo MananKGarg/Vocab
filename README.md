@@ -368,6 +368,39 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 50. **Subversive** - undermine the power and authority of (an established system or institution). *"an attempt to subvert democratic government"*
 51. **Veritably** - used to describe something as another, more exciting, interesting, or unusual thing, as a way of emphasizing its character: *My garden had become a veritable jungle by the time I came back from holiday.*
 52. **Guile** - sly or cunning intelligence. *"he used all his guile and guts to free himself from the muddle he was in"*
+1. **Contrivance** - the use of skill to create or bring about something, especially with a consequent effect of artificiality. *"the requirements of the system, by happy chance and some contrivance, can be summed up in an acronym"*
+2. **Malediction** - a magical word or phrase uttered with the intention of bringing about evil; a curse. *"he muttered maledictions to himself as he trod the stone passages"*
+3. **Reproach** - express to (someone) one's disapproval of or disappointment in their actions. *"her friends reproached her for not thinking enough about her family"*
+4. **Cardinal** - of the greatest importance; fundamental. *"two cardinal points must be borne in mind"*
+5. **Utilitarian** - designed to be useful or practical rather than attractive. *"a utilitarian building"*
+6. **Garb** - clothing, especially of a distinctive or special kind. *"kids in combat garb"*
+7. **Sovereignity** - supreme power or authority. *"the sovereignty of Parliament"*
+8. **Charlatan** - a person falsely claiming to have a special knowledge or skill. *"a self-confessed con artist and charlatan"*
+9. **Harping** - talk or write persistently and tediously on (a particular topic). *"I don't want to harp on about the past"*
+10. **Enmesh** - cause to become entangled in something. *"whales enmeshed in drift nets"*
+11. **Denounce** - publicly declare to be wrong or evil. *"the Assembly denounced the use of violence"*
+12. **Impersonator** - a person who pretends to be someone else for entertainment or fraud. *"a well-known Elvis impersonator"*
+13. **Insidious** - proceeding in a gradual, subtle way, but with very harmful effects. *"sexual harassment is a serious and insidious problem"*
+14. **Ensnaring** - catch in or as in a trap. *"they were ensnared in city centre traffic"*
+15. **Suitor** - a man who pursues a relationship with a particular woman, with a view to marriage. *"she decided to marry her suitor"*
+16. **Contrive** - create or bring about (an object or a situation) by deliberate use of skill and artifice. *"his opponents contrived a cabinet crisis"*
+17. **Penchant** - a strong or habitual liking for something or tendency to do something. *"he has a penchant for adopting stray dogs"*
+18. **Novitiate** - the period or state of being a novice, especially in a religious order.
+19. **Spurn** - reject with disdain or contempt. *"he spoke gruffly, as if afraid that his invitation would be spurned"*
+20. **Debonair** - (of a man) confident, stylish, and charming. *"all the men looked debonair and handsome in white tie and tails"*
+21. **Vacillate** - waver between different opinions or actions; be indecisive. *"I vacillated between teaching and journalism"*
+22. **Pantheon** - all the gods of a people or religion collectively. *"the deities of the Hindu pantheon"*
+23. **Forbearance** - patient self-control; restraint and tolerance. *"his unfailing courtesy and forbearance under great provocation"*
+24. **Rebuff** - reject (someone or something) in an abrupt or ungracious manner. *"I asked her to be my wife, and was rebuffed in no uncertain terms"*
+25. **Overweening** - showing excessive confidence or pride. *"overweening ambition"*
+26. **Murky** - dark and gloomy, especially due to thick mist. *"the sky was murky and a thin drizzle was falling"*
+27. **Syncretism** - the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought. *"interfaith dialogue can easily slip into syncretism"*
+28. **Entice** - attract or tempt by offering pleasure or advantage. *"a show which should entice a new audience into the theatre"*
+29. **Recapitulate** - summarize and state again the main points of. *"he began to recapitulate his argument with care"*
+30. **Transcendence** - existence or experience beyond the normal or physical level. *"the possibility of spiritual transcendence in the modern world"*
+31. 
+
+
 
 
 
