@@ -398,7 +398,14 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 28. **Entice** - attract or tempt by offering pleasure or advantage. *"a show which should entice a new audience into the theatre"*
 29. **Recapitulate** - summarize and state again the main points of. *"he began to recapitulate his argument with care"*
 30. **Transcendence** - existence or experience beyond the normal or physical level. *"the possibility of spiritual transcendence in the modern world"*
-31. 
+1. **Carnage** - the killing of a large number of people. *"the bombing was timed to cause as much carnage as possible"*
+2. **Expound** - present and explain (a theory or idea) in detail. *"he was expounding a powerful argument"*
+3. **Indiscretion** - behaviour or speech that is indiscreet or displays a lack of good judgement. *"he knew himself all too prone to indiscretion"*
+4. **Perversely** - in a way that shows a deliberate and obstinate desire to behave in an unreasonable or unacceptable manner. *"the group perversely refused to tour until well past their peak"*
+5. **Sobering** - creating a more serious, sensible, or solemn mood. *"a sobering thought"*
+6. **Ambivalent** - having mixed feelings or contradictory ideas about something or someone. *"some loved her, some hated her, few were ambivalent about her"*
+7. **Chivalric** - Chivalric means relating to or connected with the system of chivalry that was believed in and followed by medieval knights
+8. **Mercenary** - a professional soldier hired to serve in a foreign army. *"he had planned to seize power with the aid of a group of mercenaries"*
 
 
 
