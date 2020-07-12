@@ -406,6 +406,76 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 6. **Ambivalent** - having mixed feelings or contradictory ideas about something or someone. *"some loved her, some hated her, few were ambivalent about her"*
 7. **Chivalric** - Chivalric means relating to or connected with the system of chivalry that was believed in and followed by medieval knights
 8. **Mercenary** - a professional soldier hired to serve in a foreign army. *"he had planned to seize power with the aid of a group of mercenaries"*
+9. **Ruffian** - a violent person, especially one involved in crime
+10. **Bandit** - a robber or outlaw belonging to a gang and typically operating in an isolated or lawless area. *"the bandit produced a weapon and demanded money"*
+11. **Qualms** - an uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. *"military regimes generally have no qualms about controlling the press"*
+12. **Impale** -  transfix or pierce with a sharp instrument. *"his head was impaled on a pike and exhibited for all to see"*
+13. **Pikes** - an infantry weapon with a pointed steel or iron head on a long wooden shaft.
+14. **Absolve** - declare (someone) free from guilt, obligation, or punishment. *"the pardon absolved them of any crimes"*
+15. **Complicit** - involved with others in an activity that is unlawful or morally wrong. *"the careers of those complicit in the cover-up were blighted"*
+16. **Protracted** - lasting for a long time or longer than expected or usual. *"a protracted and bitter dispute"*
+17. **Acquitted** - free (someone) from a criminal charge by a verdict of not guilty. *"she was acquitted on all counts"*
+18. **Incommunicado** - not able, wanting, or allowed to communicate with other people. *"they were separated and detained incommunicado"*
+19. **Colluding** - cooperate in a secret or unlawful way in order to deceive or gain an advantage over others. *"the president accused his opponents of colluding with foreigners"*
+20. **Iniquities** - immoral or grossly unfair behaviour. *"a den of iniquity"*
+21. **Defile** - damage the purity or appearance of; mar or spoil. *"the land was defiled by a previous owner"*
+22. **Revelry** - lively and noisy festivities, especially when these involve drinking a large amount of alcohol. *"sounds of revelry issued into the night"*
+23. **Ineradicable** - unable to be destroyed or removed. *"ineradicable hostility"*
+24. **Wrangling** - engagement in a long, complicated dispute or argument. *"weeks of political wrangling"*
+25. **Whirligig** - a toy that spins round, for example a top or windmill.
+26. **Jubilant** - feeling or expressing great happiness and triumph. *"a large number of jubilant fans ran on to the pitch"*
+27. **Teeming** - be full of or swarming with. *"every garden is teeming with wildlife"*
+28. **Dissuade** - persuade (someone) not to take a particular course of action. *"his friends tried to dissuade him from flying"*
+29. **Jutting** - extend out, over, or beyond the main body or line of something. *"a rock jutted out from the side of the bank"*
+30. **Garbled** - (of a message, sound, or transmission) confused and distorted; unclear. *"I got a garbled set of directions"*
+31. **Orgy** - a wild party characterized by excessive drinking and indiscriminate sexual activity. *"he had a reputation for drunken orgies"*
+32. **Stoic** - a person who can endure pain or hardship without showing their feelings or complaining.
+33. **Impelling** - drive, force, or urge (someone) to do something. *"financial difficulties impelled him to desperate measures"*
+34. **Vendetta** - a prolonged bitter quarrel with or campaign against someone. *"he has accused the British media of pursuing a vendetta against him"*
+35. **Vendetta** - a blood feud in which the family of a murdered person seeks vengeance on the murderer or the murderer's family.
+36. **Pre-Empted** - take action in order to prevent (an anticipated event) happening; forestall. *"the government pre-empted a coup attempt"*
+37. **Affliction** - a cause of pain or harm. *"a crippling affliction of the nervous system"*
+38. **Forbearance** - patient self-control; restraint and tolerance. *"his unfailing courtesy and forbearance under great provocation"*
+39. **Poignant** - evoking a keen sense of sadness or regret. *"a poignant reminder of the passing of time"*
+40. **Irrevocable** - not able to be changed, reversed, or recovered; final. *"an irrevocable step"*
+41. **Glossed** - try to conceal or disguise (something unfavourable) by treating it briefly or representing it misleadingly. *"the social costs of this growth are glossed over"*
+42. **Concur** - be of the same opinion; agree. *"the authors concurred with the majority"*
+43. **Intimation** - an indication or hint. *"the first intimations of trouble"*
+44. **Comport** - conduct oneself; behave. *"articulate students who comported themselves well in interviews"*
+45. **Reparations** - the action of making amends for a wrong one has done, by providing payment or other assistance to those who have been wronged. *"the courts required a convicted offender to make financial reparation to his victim"*
+46. **Culpability** - responsibility for a fault or wrong; blame. *"a level of moral culpability"*
+47. **Presided** - be in the position of authority in a meeting or other gathering. *"the prime minister will preside at an emergency cabinet meeting"*
+48. **Precarious** - dependent on chance; uncertain.*"he made a precarious living as a painter"*
+49. **Disavow** - deny any responsibility or support for. *"the union leaders resisted pressure to disavow picket-line violence"*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
