@@ -14,7 +14,7 @@
 12. **Maiden** - > an unmarried girl or young woman. *two knights fought to win the hand of a fair maiden*
              > being or involving the first attempt or act of its kind. *the Titanic's maiden voyage*
 13. **Bourse** - a stock market in a non-English-speaking country, especially France
-14. **Canny** - having or showing shrewdness and good judgement, especially in money or business matters. *canny investors will switch banks if they think they are getting a raw deal*
+14. **Canny** - having or showing shrewdness and good judgement, especially in money or business matters *canny investors will switch banks if they think they are getting a raw deal*
 15. **Technocrat** -  a technical expert especially : one exercising managerial authority.
 16. **Statute** - a written law passed by a legislative body. *the Act consolidated statutes dealing with non-fatal offences*
 17. **Sedition** - conduct or speech inciting people to rebel against the authority of a state or monarch.
