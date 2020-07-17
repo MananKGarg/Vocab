@@ -447,6 +447,17 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 47. **Presided** - be in the position of authority in a meeting or other gathering. *"the prime minister will preside at an emergency cabinet meeting"*
 48. **Precarious** - dependent on chance; uncertain.*"he made a precarious living as a painter"*
 49. **Disavow** - deny any responsibility or support for. *"the union leaders resisted pressure to disavow picket-line violence"*
+1. **Vanity** - excessive pride in or admiration of one's own appearance or achievements. *"it flattered his vanity to think I was in love with him"*
+2. **Sentient** - able to perceive or feel things. *"she had been instructed from birth in the equality of all sentient life forms"*
+3. **Filial** - relating to or due from a son or daughter. *"a display of filial affection"*
+4. **Inscrutable** - impossible to understand or interpret. *"Guy looked blankly inscrutable"*
+5. **Tad** - to a small extent; somewhat. *"Mark looked a tad embarrassed"*
+6. **Adrift** - (of a boat or its passengers) floating without being either moored or steered. *"a cargo ship went adrift"*
+7. **Predicament** - a difficult, unpleasant, or embarrassing situation. *"the club's financial predicament"*
+8. **Maggots** - a soft-bodied legless larva of a fly or other insect, found in decaying matter. *"the maggots attack the roots of the developing cabbages"*
+9. **Embattled** - (of a place or people) involved in or prepared for war, especially because surrounded by enemy forces. *"the embattled northern province"*
+10. **Trudges** - 
+
 
 
 
