@@ -456,7 +456,7 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 7. **Predicament** - a difficult, unpleasant, or embarrassing situation. *"the club's financial predicament"*
 8. **Maggots** - a soft-bodied legless larva of a fly or other insect, found in decaying matter. *"the maggots attack the roots of the developing cabbages"*
 9. **Embattled** - (of a place or people) involved in or prepared for war, especially because surrounded by enemy forces. *"the embattled northern province"*
-10. **Trudges** - 
+10. **Accrual accounting** - Accrual accounting is a method of accounting where revenues and expenses are recorded when they are earned, regardless of when the money is actually received or paid
 
 
 
