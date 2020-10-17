@@ -8,7 +8,7 @@
 6. **Palpable** - (of a feeling or atmosphere) so intense as to seem almost tangible. *a palpable sense of loss*
 7. **Precarious** - not securely held or in position; dangerously likely to fall or collapse. *a precarious ladder*
 8. **Hark Back** - To continously tal about something that happened in the past.
-9. **Ghettoes** - a part of a city, especially a slum area, occupied by a minority group or groups.
+9. **Ghettoes** - a part of a city, especially a slum area, occupied by a minority group or groups
 10. **Non Denomitional (School)** - A school where people from all religion are allowed
 11. **Willy Nilly** - whether one likes it or not. *he would be forced to collaborate willy-nilly*
 12. **Maiden** - > an unmarried girl or young woman. *two knights fought to win the hand of a fair maiden*
