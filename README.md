@@ -457,7 +457,10 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 8. **Maggots** - a soft-bodied legless larva of a fly or other insect, found in decaying matter. *"the maggots attack the roots of the developing cabbages"*
 9. **Embattled** - (of a place or people) involved in or prepared for war, especially because surrounded by enemy forces. *"the embattled northern province"*
 10. **Accrual accounting** - Accrual accounting is a method of accounting where revenues and expenses are recorded when they are earned, regardless of when the money is actually received or paid
-
+1. **Sojourn** - a temporary stay. *"her sojourn in Rome"*
+2. **Hilt** - the handle of a weapon or tool, especially a sword, dagger, or knife.
+3. **Entail** - involve (something) as a necessary or inevitable part or consequence. *"a situation which entails considerable risks"*
+4. 
 
 
 
