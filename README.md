@@ -460,7 +460,12 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 1. **Sojourn** - a temporary stay. *"her sojourn in Rome"*
 2. **Hilt** - the handle of a weapon or tool, especially a sword, dagger, or knife.
 3. **Entail** - involve (something) as a necessary or inevitable part or consequence. *"a situation which entails considerable risks"*
-4. 
+4. **Yonder** - at some distance in the direction indicated; over there. *"there's a ford south of here, about nine miles yonder"*
+5. **Kudzu** - Kudzu (also called Japanese arrowroot or Chinese arrowroot) is a group of climbing, coiling, and trailing perennial vines native to much of East Asia, Southeast Asia, and some Pacific islands, but invasive in many parts of the world, primarily North America.
+6. **Asinine** - extremely stupid or foolish. *"Lydia ignored his asinine remark"*
+7. **Edification** - the moral or intellectual instruction or improvement of someone. *"a video was filmed for the edification of clients"*
+8. **Gaped** - stare with one's mouth open wide in amazement or wonder. *"he gaped at Sharp in silence"*
+9. **Quibbling** - the action of raising objections about a trivial matter. *"she was tired of all the quibbling"*
 
 
 
