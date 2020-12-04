@@ -9,3 +9,9 @@ aggressively. *"reporters accosted him in the street"*
 8. **Raveling** - untangle or unravel something. *"Davy had finished ravelling out his herring net"*
 9. **Pulpit** - a raised enclosed platform in a church or chapel from which the preacher delivers a sermon. *"many ministers delivered political guidance from their pulpits"*
 10. **Hankering** - a strong desire to have or do something. *"a hankering for family life"*
+11. **Tirade** - a long, angry speech of criticism or accusation. *"a tirade of abuse"*
+12. **Apoplectic** - overcome with anger; furious. *"Mark was apoplectic with rage at the decision"*
+13. **Invective** - insulting, abusive, or highly critical language. *"he let out a stream of invective"*
+14. **Vituperation** - bitter and abusive language. *"no one else attracted such vituperation from him"*
+15. **Polemic** - a strong verbal or written attack on someone or something. *"his polemic against the cultural relativism of the Sixties"*
+
