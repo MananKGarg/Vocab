@@ -466,7 +466,8 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 7. **Edification** - the moral or intellectual instruction or improvement of someone. *"a video was filmed for the edification of clients"*
 8. **Gaped** - stare with one's mouth open wide in amazement or wonder. *"he gaped at Sharp in silence"*
 9. **Quibbling** - the action of raising objections about a trivial matter. *"she was tired of all the quibbling"*
-
+1. **Suave** - To be suave is to be smooth, polite, and a little bit cool. Sophisticated, very polished in manner and speech. The word is used when you are trying to say that the polish and smoothness may be on the outside.
+2. **Obtuse** - this is not a compliment – it is used to describe someone who is stupid, dumb, slow, unintelligent. The opposite is acute. Just like acute means sharp, clever ; obtuse means blunt and dim witted. Examples of acute – e.g. he has a very acute observation or I am having an acute pain in my head. *The obtuse young man had a hard time understanding the simple instructions*
 
 
 
