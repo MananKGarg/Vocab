@@ -468,6 +468,16 @@ enjoyment from seeing the pain or distress of others. *"township visits are bord
 9. **Quibbling** - the action of raising objections about a trivial matter. *"she was tired of all the quibbling"*
 1. **Suave** - To be suave is to be smooth, polite, and a little bit cool. Sophisticated, very polished in manner and speech. The word is used when you are trying to say that the polish and smoothness may be on the outside.
 2. **Obtuse** - this is not a compliment – it is used to describe someone who is stupid, dumb, slow, unintelligent. The opposite is acute. Just like acute means sharp, clever ; obtuse means blunt and dim witted. Examples of acute – e.g. he has a very acute observation or I am having an acute pain in my head. *The obtuse young man had a hard time understanding the simple instructions*
+3. **Euphemism** - a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.
+*"the jargon has given us ‘downsizing’ as a euphemism for cuts"*
+4. **Dysphemism** - a derogatory or unpleasant term used instead of a pleasant or neutral one. Curses, name-calling and any sort of derogatory comment directed towards others in order to insult or to wound them are all examples of dysphemism.
+5. **Enmity** - a state or feeling of active opposition or hostility.
+*"decades of enmity between the two countries"*
+6. **Celerity** - swiftness of movement. *When the commanding officer tells his soldiers to move, the men and women move with purposeful celerity.*
+7. **Debonair** - confident, stylish, and charming (typically used of a man). *"all the men looked debonair and handsome in white tie and tails"*
+8. **Penury** - Extreme Poverty
+9. 
+
 
 
 
